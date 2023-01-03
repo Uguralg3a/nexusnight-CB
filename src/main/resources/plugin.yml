@@ -1,0 +1,9 @@
+name: NexusnightCB
+version: '${version}'
+main: de.ugur.nexusnight.nexusnight.Nexusnight
+api-version: 1.19
+authors: [ Ugur ]
+softdepend: [Vault]
+commands:
+  adminshop:
+    permission: uahsiauldsf
